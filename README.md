@@ -5,6 +5,7 @@ A Powershell script that deletes messages on a specified channel before a specif
 
 ## How to use
 Set the following environment variables and execute.
+If proxy authentication is not required, please change it appropriately.
 
 * USER: User for proxy authentication
 * PASSWORD: Password for proxy authentication
@@ -15,6 +16,8 @@ Set the following environment variables and execute.
 
 ## 使い方
 以下の環境変数を設定して実行します。
+
+proxy認証が不要な場合は適宜変更して使用して下さい。
 
 * USER:プロクシ認証用ユーザ
 * PASSWORD:プロクシ認証用パスワード

@@ -5,6 +5,7 @@ A Powershell script that deletes messages on a specified channel before a specif
 
 ## How to use
 Set the following environment variables and execute.
+
 If proxy authentication is not required, please change it appropriately.
 
 * USER: User for proxy authentication
